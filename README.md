@@ -1,4 +1,3 @@
-# Zomato-delivery-analysis
 
 # 🍔 Zomato Delivery Operations Analysis
 
